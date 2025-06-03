@@ -7,14 +7,14 @@
 const fs = require('fs')
 const chalk = require('chalk')
 //contact details
-global.ownernomer = "255756530143"
-global.ownername = "HANSTZ"
+global.ownernomer = "923126675673"
+global.ownername = "HASAAN"
 global.ytname = "HANSTZ-TECH"
 global.socialm = "GitHub: Mrhanstz"
 global.location = "AFRICA, TANZANIA, DODOMA"
-global.ownernumber = '255756530143'  //creator number
-global.ownername = 'HANSTZ' //owner name
-global.botname = 'HANS-XMD' //name of the bot
+global.ownernumber = '923126675673'  //creator number
+global.ownername = 'HASAAN' //owner name
+global.botname = 'HASAAN-XMD' //name of the bot
 //sticker details
 global.packname = 'Sticker By'
 global.author = 'HANS-XMD'
@@ -32,10 +32,10 @@ global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
 global.autoswview = true //auto view status/story
-global.autoreact = false // This is For Auto React 
+global.autoreact = true // This is For Auto React 
 global.welcome = false // For Welcome massage groups
 
 global.typemenu = 'v1'
